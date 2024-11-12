@@ -1,10 +1,9 @@
 # **PINKOPOSSUM**
 ### Logan M. Brown
 
-Howdy hey, I'm a recent graduate and current IT professional. Right now I'm brushing up on python on the fly while developing my first indie-game, "Rattle 'em Boys". I am a proud homelab owner/operator and spend too much of my time working on IT related issues outside of work 😅. Outside of work and the work I make for myself at home you'll find me delving down a topic rabbit hole of some sort, enjoying some sort of Star Wars media, or relaxing with friends while playing video games.
+Howdy hey, I'm a recent graduate and current IT professional. I am a proud homelab owner/operator and spend too much of my time working on IT related issues outside of work 😅. Outside of work and the work I make for myself at home you'll find me delving down a topic rabbit hole of some sort, enjoying some sort of Star Wars media, or relaxing with friends while playing video games.
 
 ## Current Projects
-- "Rattle 'em Boys", an action/adventure rpg.
 - cynt.lol, community sourced intelligence bulletin.
 
 ### More About Me
