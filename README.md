@@ -1,4 +1,4 @@
-# **PINKOPOSSUM**
+# **P1NK0**
 ### Logan M. Brown
 
 Howdy hey, I am a proud homelab owner/operator, IT Professional, and spend too much of my time working on IT related issues outside of work 😅. Outside of work and the work I make for myself at home you'll find me delving down a topic rabbit hole of some sort, enjoying some sort of Star Wars media, or relaxing with friends while playing video games.
